@@ -1,14 +1,12 @@
 # Spectro Wavelength Unit Convertor
 
-A desktop application built on a validated Python scientific core.
-It is a lightweight utility for converting wavelengths between different units
-of measurement in scientific data files. 
+A desktop application for converting wavelength values between different units in scientific data files. The underlying calculations are based on a validated scientific model implemented in Python.
 
 ## Who is this for?
 
 - **End users**: [download the ready-to-use executable](https://github.com/FlexStudia/Spectro_wavelength_unit_convertor/releases) (no Python required)
 - **Researchers / developers**: use the scientific core as a Python module
-- **Contributors**: see testing and build instructions
+If you only want to use the program to convert wavelength units and do not work with Python or source code, you only need the executable from the [Releases page](https://github.com/FlexStudia/Spectro_wavelength_unit_convertor/releases). No programming knowledge is required.
 
 # Features
 
