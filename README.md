@@ -52,7 +52,7 @@ A more detailed usage example is provided in the `demo_f` function at the end of
 ## Core tests & validation
 
 The scientific core has been extensively tested for all supported combinations of units and sorting orders. Conversion results were validated against manually calculated reference values.
-The corresponding tests are located in the `tests/` directory (`test_core.py`).
+The corresponding tests are located in the `tests/` directory (`test_core.py`). They are powered by the PyTest package.
 
 # Repository structure
 
